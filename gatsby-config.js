@@ -6,7 +6,7 @@ module.exports = {
     navigationMenu: [
       {
         name: 'Features',
-        link: '/features'
+        link: '/'
       }, {
         name: 'Pricing',
         link: '/pricing'
